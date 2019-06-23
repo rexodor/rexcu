@@ -1,0 +1,2 @@
+# rexcu
+digital coin
